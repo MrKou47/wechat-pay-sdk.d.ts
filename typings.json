@@ -1,0 +1,6 @@
+{
+  "name": "wechat-pay-sdk",
+  "main": "index.d.ts",
+  "author": "mrkou47 <koubodehao@gmail.com>",
+  "description": "A Typescript/Typings definition for wechat-pay-sdk."
+}

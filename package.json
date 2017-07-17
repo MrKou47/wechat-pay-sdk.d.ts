@@ -1,0 +1,22 @@
+{
+  "name": "@types/wechat-pay-sdk",
+  "version": "1.0.0",
+  "description": "An NPM-installable Typescript declaration forwechat-pay-sdk.",
+  "main": "index.d.ts",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKou47/wechat-pay-sdk.d.ts.git"
+  },
+  "author": "mrkou47",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrKou47/wechat-pay-sdk.d.ts/issues"
+  },
+  "homepage": "https://github.com/MrKou47/wechat-pay-sdk.d.ts#readme",
+  "typescript":{
+      "definitions":[
+          "index.d.ts"
+      ]
+  }
+}
